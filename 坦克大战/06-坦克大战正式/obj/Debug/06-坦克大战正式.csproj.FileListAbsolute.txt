@@ -1,0 +1,11 @@
+D:\C#_Project\坦克大战\06-坦克大战正式\bin\Debug\06-坦克大战正式.exe.config
+D:\C#_Project\坦克大战\06-坦克大战正式\bin\Debug\06-坦克大战正式.exe
+D:\C#_Project\坦克大战\06-坦克大战正式\bin\Debug\06-坦克大战正式.pdb
+D:\C#_Project\坦克大战\06-坦克大战正式\obj\Debug\06-坦克大战正式.csproj.AssemblyReference.cache
+D:\C#_Project\坦克大战\06-坦克大战正式\obj\Debug\06-坦克大战正式.csproj.SuggestedBindingRedirects.cache
+D:\C#_Project\坦克大战\06-坦克大战正式\obj\Debug\_06_坦克大战正式.Properties.Resources.resources
+D:\C#_Project\坦克大战\06-坦克大战正式\obj\Debug\06-坦克大战正式.csproj.GenerateResource.cache
+D:\C#_Project\坦克大战\06-坦克大战正式\obj\Debug\06-坦克大战正式.csproj.CoreCompileInputs.cache
+D:\C#_Project\坦克大战\06-坦克大战正式\obj\Debug\06-坦克大战正式.exe
+D:\C#_Project\坦克大战\06-坦克大战正式\obj\Debug\06-坦克大战正式.pdb
+D:\C#_Project\坦克大战\06-坦克大战正式\obj\Debug\_06_坦克大战正式.Form1.resources

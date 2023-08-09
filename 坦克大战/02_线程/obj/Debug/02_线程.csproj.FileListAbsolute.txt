@@ -1,0 +1,8 @@
+D:\C#_Project\坦克大战\02_线程\bin\Debug\02_线程.exe.config
+D:\C#_Project\坦克大战\02_线程\bin\Debug\02_线程.exe
+D:\C#_Project\坦克大战\02_线程\bin\Debug\02_线程.pdb
+D:\C#_Project\坦克大战\02_线程\obj\Debug\02_线程.csproj.AssemblyReference.cache
+D:\C#_Project\坦克大战\02_线程\obj\Debug\02_线程.csproj.SuggestedBindingRedirects.cache
+D:\C#_Project\坦克大战\02_线程\obj\Debug\02_线程.csproj.CoreCompileInputs.cache
+D:\C#_Project\坦克大战\02_线程\obj\Debug\02_线程.exe
+D:\C#_Project\坦克大战\02_线程\obj\Debug\02_线程.pdb

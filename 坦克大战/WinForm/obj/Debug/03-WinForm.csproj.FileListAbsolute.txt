@@ -1,0 +1,11 @@
+D:\C#_Project\坦克大战\WinForm\bin\Debug\WinForm.exe.config
+D:\C#_Project\坦克大战\WinForm\bin\Debug\WinForm.exe
+D:\C#_Project\坦克大战\WinForm\bin\Debug\WinForm.pdb
+D:\C#_Project\坦克大战\WinForm\obj\Debug\03-WinForm.csproj.AssemblyReference.cache
+D:\C#_Project\坦克大战\WinForm\obj\Debug\03-WinForm.csproj.SuggestedBindingRedirects.cache
+D:\C#_Project\坦克大战\WinForm\obj\Debug\WinForm.Form1.resources
+D:\C#_Project\坦克大战\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\C#_Project\坦克大战\WinForm\obj\Debug\03-WinForm.csproj.GenerateResource.cache
+D:\C#_Project\坦克大战\WinForm\obj\Debug\03-WinForm.csproj.CoreCompileInputs.cache
+D:\C#_Project\坦克大战\WinForm\obj\Debug\WinForm.exe
+D:\C#_Project\坦克大战\WinForm\obj\Debug\WinForm.pdb
