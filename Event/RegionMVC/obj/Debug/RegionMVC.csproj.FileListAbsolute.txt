@@ -1,0 +1,8 @@
+D:\C#_Project\Event\RegionMVC\bin\Debug\RegionMVC.exe.config
+D:\C#_Project\Event\RegionMVC\bin\Debug\RegionMVC.exe
+D:\C#_Project\Event\RegionMVC\bin\Debug\RegionMVC.pdb
+D:\C#_Project\Event\RegionMVC\obj\Debug\RegionMVC.csproj.AssemblyReference.cache
+D:\C#_Project\Event\RegionMVC\obj\Debug\RegionMVC.csproj.SuggestedBindingRedirects.cache
+D:\C#_Project\Event\RegionMVC\obj\Debug\RegionMVC.csproj.CoreCompileInputs.cache
+D:\C#_Project\Event\RegionMVC\obj\Debug\RegionMVC.exe
+D:\C#_Project\Event\RegionMVC\obj\Debug\RegionMVC.pdb

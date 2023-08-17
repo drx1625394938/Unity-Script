@@ -1,0 +1,8 @@
+D:\C#_Project\Event\CustomerOrder\obj\Debug\CustomerOrder.csproj.AssemblyReference.cache
+D:\C#_Project\Event\CustomerOrder\obj\Debug\CustomerOrder.csproj.SuggestedBindingRedirects.cache
+D:\C#_Project\Event\CustomerOrder\obj\Debug\CustomerOrder.csproj.CoreCompileInputs.cache
+D:\C#_Project\Event\CustomerOrder\bin\Debug\CustomerOrder.exe.config
+D:\C#_Project\Event\CustomerOrder\bin\Debug\CustomerOrder.exe
+D:\C#_Project\Event\CustomerOrder\bin\Debug\CustomerOrder.pdb
+D:\C#_Project\Event\CustomerOrder\obj\Debug\CustomerOrder.exe
+D:\C#_Project\Event\CustomerOrder\obj\Debug\CustomerOrder.pdb
